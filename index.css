@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+
+.navbar{
+    display: flex ;
+    
+}
+li{
+    list-style: none;
+    font-size: 25px;
+    display: inline;
+    margin: 5px; 
+    
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+    margin-left: 0px;
+    
+}
+.logo{
+    font-family:'Roboto';
+
+    font-weight: bolder;
+    font-size: large;
+       
+}
+.logo a{
+    color: yellow;
+}
